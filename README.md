@@ -27,7 +27,7 @@ This repository is already configured for GitPod, so you can start a workspace w
 https://gitpod.io/#https://github.com/faermanj/lab-aliyun
 
 
-Also, you're welcome to clone this repository and setup your own machine, the exact dependencies and commands can be found in the [gitpod Containerfile](https://github.com/faermanj/lab-aliyun/blob/main/.gitpod.Containerfile).
+Also, you're welcome to clone this repository and setup your own machine, the exact dependencies and commands can be found in the [gitpod Containerfile](https://github.com/dwojciec/lab-aliyun/blob/main/.gitpod.Containerfile).
 
 
 ### Configure the Assited Installer CLI
