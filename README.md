@@ -24,7 +24,7 @@ Make sure you have access to the following services:
 ### Workspace Creation
 
 This repository is already configured for GitPod, so you can start a workspace with all tools pre-installed:
-https://gitpod.io/#https://github.com/faermanj/lab-aliyun
+https://gitpod.io/#https://github.com/dwojciec/lab-aliyun
 
 
 Also, you're welcome to clone this repository and setup your own machine, the exact dependencies and commands can be found in the [gitpod Containerfile](https://github.com/dwojciec/lab-aliyun/blob/main/.gitpod.Containerfile).
